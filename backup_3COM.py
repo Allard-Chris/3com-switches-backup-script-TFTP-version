@@ -5,7 +5,7 @@
 #  Auteur : Allard Chris
 #    Date : 21/10/2016
 # Version : 1.0
-#  Github :
+#  Github : https://github.com/Allard-Chris/3COM-switches-backup-script-TFTP-version
 #
 # This script connect to a list of 3com & HP switches for initiating a backup command to a TFTP server.
 # It use Telnet protocol and the login should be the same all on switches that the script will go.
