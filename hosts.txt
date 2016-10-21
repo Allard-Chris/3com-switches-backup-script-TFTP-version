@@ -1,0 +1,14 @@
+DATE : 21/10/2016
+#############################################
+#Host file for all switches we want to backup
+# 1 For 3COM 4200 | 4400 | 4500
+# 2 For 3COM 5500
+# 3 For HP A5500
+# Right like this model:name:ip
+# Don't forget ":" separator
+#############################################
+
+1:switchtest1:192.168.1.2
+2:switchtest2:192.168.1.3
+2:switchtest3:192.168.1.4
+3:switchtest4:192.168.1.253
